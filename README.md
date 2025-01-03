@@ -213,7 +213,7 @@ reference="fig: full data training"} shows the training loss of the 3
 best models. Note that there is no validation loss because, at this
 point, all the training data was used for training.
 
-![Full Data Training](Paper/Full Data Training.png){#fig: full data training width="100%"}
+![Full Data Training](./Paper/Full_Data_Training.png){#fig:full_data_training width="100%"}
 
 ## Test Accuracies 
 
