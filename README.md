@@ -129,7 +129,7 @@ reference="fig: model selection training/validation loss"} shows the
 best three performances (training and validation loss) while evaluating
 with ray tune.
 
-![Model Selection Training/ValidationLoss](./paper/training_plots.png)
+![Model Selection Training/ValidationLoss](./Paper/training_plots.png)
 {#fig: model selection training/validation loss width="100%"}
 
 # Best Model Architectures 
@@ -213,7 +213,7 @@ reference="fig: full data training"} shows the training loss of the 3
 best models. Note that there is no validation loss because, at this
 point, all the training data was used for training.
 
-![Full Data Training](paper/Full Data Training.png){#fig: full data training width="100%"}
+![Full Data Training](Paper/Full Data Training.png){#fig: full data training width="100%"}
 
 ## Test Accuracies 
 
